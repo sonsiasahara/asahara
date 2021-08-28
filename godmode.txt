@@ -1,0 +1,130 @@
+{tag:{Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{IsGlobal:0b,IsPregnant:0b,LootDropped:0b,ShowBottom:0b,IsTrusting:0b,Mainhand:[{WasPickedUp:0b,Count:0b,Damage:0s,Name:""}],LastDimensionId:0,PortalCooldown:0,IsScared:0b,IsStunned:0b,Color2:0b,InterativeText:"HAHAHA",Rotation:[0
+0f,0
+3787079f],RawtextName:"",AttackTime:0s,FallDistance:0
+0f,OwnerNew:-1l,TradeTier:0,Chested:0b,Surface:0b,Offhand:[{WasPickedUp:0b,Count:0b,Damage:0s,Name:""}],Persistent:1b,IsSwimming:0b,IsIllagerCaptain:0b,Sitting:0b,IsOutOfControl:0b,Pos:[8
+495551f,4
+0f,-40
+138485f],boundZ:0,CustomName:NPC,Fire:0s,SkinID:0,boundY:0,Saddled:0b,UniqueID:-17179869153l,BodyRot:-65
+49931f,HurtTime:0s,StrengthMax:0,MarkVariant:0,Strength:0,Sheared:0b,TradeExperience:0,limitedLife:0,IsGliding:0b,CustomNameVisible:1b,Variant:19,Actions:"[
+   {
+      "button_name" : "Creative",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode	c	@p",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamemode	c	@p",
+      "type" : 1
+   },
+   {
+      "button_name" : "Survival ",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode	s	@p",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamemode	s	@p",
+      "type" : 1
+   },
+   {
+      "button_name" : "Adventure ",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode	a	@p",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamemode	a	@p",
+      "type" : 1
+   },
+   {
+      "button_name" : "Invisibility",
+      "data" : [
+         {
+            "cmd_line" : "/effect	@p	invisibility	99999999	1	true",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/effect	@p	invisibility	99999999	1	true",
+      "type" : 1
+   },
+   {
+      "button_name" : "Kick",
+      "data" : [
+         {
+            "cmd_line" : "/kick @a[tag=!Bypass]",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/kick @a[tag=!Bypass]",
+      "type" : 1
+   },
+   {
+      "button_name" : "Kill",
+      "data" : [
+         {
+            "cmd_line" : "/kill",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/kill",
+      "type" : 1
+   }
+]
+",Armor:[{WasPickedUp:0b,Count:0b,Damage:0s,Name:""},{WasPickedUp:0b,Count:0b,Damage:0s,Name:""},{WasPickedUp:0b,Count:0b,Damage:0s,Name:""},{WasPickedUp:0b,Count:0b,Damage:0s,Name:""}],IsTamed:0b,IsAngry:0b,hasBoundOrigin:0b,IsOrphaned:0b,DeathTime:0s,Attributes:[{Current:16
+0f,Max:2048
+0f,DefaultMax:2048
+0f,Base:16
+0f,DefaultMin:0
+0f,Min:0
+0f,Name:"minecraft:follow_range"},{Current:0
+0f,Max:1024
+0f,DefaultMax:1024
+0f,Base:0
+0f,DefaultMin:-1024
+0f,Min:-1024
+0f,Name:"minecraft:luck"},{Current:0
+02f,Max:3
+4028235E38f,DefaultMax:3
+4028235E38f,Base:0
+02f,DefaultMin:0
+0f,Min:0
+0f,Name:"minecraft:lava_movement"},{Current:0
+02f,Max:3
+4028235E38f,DefaultMax:3
+4028235E38f,Base:0
+02f,DefaultMin:0
+0f,Min:0
+0f,Name:"minecraft:underwater_movement"},{Current:0
+5f,Max:3
+4028235E38f,DefaultMax:3
+4028235E38f,Base:0
+5f,DefaultMin:0
+0f,Min:0
+0f,Name:"minecraft:movement"},{Current:0
+0f,Max:1
+0f,DefaultMax:1
+0f,Base:0
+0f,DefaultMin:0
+0f,Min:0
+0f,Name:"minecraft:knockback_resistance"},{Current:0
+0f,Max:16
+0f,DefaultMax:16
+0f,Base:0
+0f,DefaultMin:0
+0f,Min:0
+0f,Name:"minecraft:absorption"},{Current:20
+0f,Max:3
+4028235E38f,DefaultMax:3
+4028235E38f,Base:20
+0f,DefaultMin:0
+0f,Min:0
+0f,Name:"minecraft:health"}],canPickupItems:1b,IsEating:0b,TargetID:-1l,hasSetCanPickupItems:1b,OnGround:1b,Color:0b,Dead:0b,IsBaby:0b,IsRoaring:0b,definitions:["+minecraft:npc"],boundX:0,LeasherID:-1l,identifier:"minecraft:npc",IsAutonomous:0b,Tags:[],NaturalSpawn:0b,Invulnerable:0b},TicksLeftToStay:1}]},Damage:0s,Block:{name:"minecraft:beehive",states:{direction:0,honey_level:0},version:17879555},CanDestroy:[beehive],WasPickedUp:0b,Count:1b,Name:"minecraft:beehive",CanPlaceOn:[end_gateway,air,stone,dirt,cobblestone,planks,sapling,bedrock,flowing_water,water,flowing_lava,lava,sand,gravel,gold_ore,iron_ore,coal_ore,log,sponge,lapis_ore,lapis_block,dispenser,sandstone,noteblock,bed,web,tallgrass,deadbush,pistonArmCollision,yellow_flower,red_flower,stone_slab,double_stone_slab,obsidian,oak_stairs,chest,wool,brown_mushroom,red_mushroom,gold_block,iron_block,brick_block,tnt,bookshelf,mossy_cobblestone,torch,mob_spawner,redstone_wire,diamond_ore,diamond_block,crafting_table,wheat,farmland,ladder,lever,snow_layer,snow,cactus,clay,reeds,jukebox,fence,netherrack,soul_sand,glowstone,portal,cake,invisibleBedrock,trapdoor,monster_egg,stonebrick,melon_block,vine,fence_gate,mycelium,waterlily,nether_brick,nether_brick_fence,nether_wart,enchanting_table,beacon,blue_ice,brewing_stand,cauldron,end_portal,end_portal_frame,end_stone,dragon_egg,dropper,cocoa,emerald_ore,tripwire_hook,tripWire,emerald_block,cobblestone_wall,flower_pot,carrots,potatoes,skull,furnace,lit_furnace,standing_sign,wooden_door,rail,stone_stairs,wall_sign,stone_pressure_plate,iron_door,wooden_pressure_plate,redstone_ore,lit_redstone_ore,unlit_redstone_torch,redstone_torch,stone_button,ice,pumpkin,lit_pumpkin,unpowered_repeater,powered_repeater,red_mushroom_block,brown_mushroom_block,iron_bars,glass_pane,pumpkin_stem,melon_stem,brick_stairs,stone_brick_stairs,nether_brick_stairs,redstone_lamp,lit_redstone_lamp,activator_rail,sandstone_stairs,ender_chest,spruce_stairs,birch_stairs,jungle_stairs,command_block,wooden_button,anvil,redstone_block,quartz_ore,hopper,quartz_block,stained_hardened_clay,log2,slime,iron_trapdoor,prismarine,seaLantern,hay_block,carpet,hardened_clay,coal_block,red_sandstone,spruce_fence_gate,birch_fence_gate,jungle_fence_gate,dark_oak_fence_gate,acacia_fence_gate,grass_path,frame,chorus_flower,purpur_block,end_bricks,frosted_ice,end_rod,magma,nether_wart_block,red_nether_brick,bone_block,structure_void,concrete,concretePowder,chorus_plant,podzol,beetroot,stonecutter,stonecutter_block,netherreactor,info_update,info_update2,movingBlock,structure_block,reserved6,stripped_spruce_log,stripped_birch_log,stripped_jungle_log,stripped_acacia_log,stripped_dark_oak_log,stripped_oak_log,chemistry_table,underwater_torch,chemical_heat,coral,coral_block,coral_fan,coral_fan_dead,coral_fan_hang,trapped_chest,light_weighted_pressure_plate,heavy_weighted_pressure_plate,unpowered_comparator,powered_comparator,daylight_detector,quartz_stairs,wooden_slab,double_wooden_slab,stained_glass_pane,leaves2,acacia_stairs,dark_oak_stairs,packed_ice,double_plant,standing_banner,wall_banner,daylight_detector_inverted,red_sandstone_stairs,stone_slab2,double_stone_slab2,repeating_command_block,chain_command_block,spruce_door,birch_door,jungle_door,acacia_door,dark_oak_door,purpur_stairs,undyed_shulker_box,shulker_box,purple_glazed_terracotta,white_glazed_terracotta,orange_glazed_terracotta,magenta_glazed_terracotta,light_blue_glazed_terracotta,yellow_glazed_terracotta,lime_glazed_terracotta,pink_glazed_terracotta,gray_glazed_terracotta,silver_glazed_terracotta,cyan_glazed_terracotta,blue_glazed_terracotta,brown_glazed_terracotta,green_glazed_terracotta,red_glazed_terracotta,black_glazed_terracotta,stained_glass,glowingobsidian,observer,prismarine_stairs,dark_prismarine_stairs,prismarine_bricks_stairs,fire,hard_glass,hard_stained_glass,hard_glass_pane,hard_stained_glass_pane,colored_torch_rg,colored_torch_bp,element_0,element_1,element_2,element_3,element_4,element_5,element_6,element_7,element_8,element_9,element_10,element_11,element_12,bee_nest,beehive,element_13,element_14,element_15,element_16,element_17,element_18,element_19,element_20,element_21,element_22,element_23,element_24,element_25,element_26,element_27,element_28,element_29,element_30,element_31,element_32,element_33,element_34,element_35,element_36,element_37,element_38,element_39,element_40,element_41,element_42,element_43,element_44,element_45,element_46,element_47,element_48,element_49,element_50,element_51,element_52,element_53,element_54,element_55,element_56,element_57,element_58,element_59,element_60,element_61,element_62,element_63,element_64,element_65,element_66,element_67,element_68,element_69,element_70,element_71,element_72,element_73,element_74,element_75,element_76,element_77,element_78,element_79,element_80,element_81,element_82,element_83,element_84,element_85,element_86,element_87,element_88,element_89,element_90,element_91,element_92,element_93,element_94,element_95,element_96,element_97,element_98,element_99,element_100,element_101,element_102,element_103,element_104,element_105,element_106,element_107,element_108,element_109,element_110,element_111,element_112,element_113,element_114,element_115,element_116,element_117,element_118,acacia_button,birch_button,dark_oak_button,jungle_button,spruce_button,coral_fan_hang2,coral_fan_hang3,kelp,dried_kelp_block,seagrass,acacia_trapdoor,birch_trapdoor,dark_oak_trapdoor,jungle_trapdoor,spruce_trapdoor,sea_pickle,conduit,barrier,scaffolding,bamboo,bamboo_sapling,smooth_stone,lectern,grindstone,cartography_table,fletching_table,smithing_table,bell,sweet_berry_bush,lantern,lava_cauldron,wood,composter,acacia_pressure_plate,birch_pressure_plate,dark_oak_pressure_plate,jungle_pressure_plate,spruce_pressure_plate,carved_pumpkin,bubble_column,turtle_egg,stone_slab3,stone_slab4,double_stone_slab3,double_stone_slab4,granite_stairs,diorite_stairs,andesite_stairs,polished_granite_stairs,polished_diorite_stairs,polished_andesite_stairs,mossy_stone_brick_stairs,smooth_red_sandstone_stairs,smooth_sandstone_stairs,end_brick_stairs,mossy_cobblestone_stairs,normal_stone_stairs,red_nether_brick_stairs,smooth_quartz_stairs,spruce_standing_sign,spruce_wall_sign,birch_standing_sign,birch_wall_sign,jungle_standing_sign,jungle_wall_sign,acacia_standing_sign,acacia_wall_sign,darkoak_standing_sign,darkoak_wall_sign,blast_furnace,smoker,lit_smoker,barrel,loom,campfire,jigsaw,lit_blast_furnace,grass,leaves,glass,golden_rail,detector_rail,sticky_piston,piston]}
